@@ -64,6 +64,7 @@
 </script>
 
 <style lang="stylus">
+  @import "~STATIC/style/base.styl";
   .index-footer
     position: fixed
     bottom: 0
